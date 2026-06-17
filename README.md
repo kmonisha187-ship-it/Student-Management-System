@@ -24,11 +24,6 @@ Clone the repo: git clone https://github.com/your-username/student-management-sy
 👇🏻Open in your browser
 Open index.html Or just download the HTML file and double-click it.
 
-🗂️ Project Structure
-
-student-management-system/
-└── index.html   # Everything — markup, styles, and logic in one file
-
 🛠️ Built With
 
 HTML5 — Semantic structure
