@@ -19,14 +19,10 @@ Toast Notifications — Success and error feedback on every action
 🚀 Getting Started
 
 No installation required.
+Clone the repo: git clone https://github.com/your-username/student-management-system.git
 
-bash# Clone the repo
-git clone https://github.com/your-username/student-management-system.git
-
-# Open in your browser
-open index.html
-
-Or just download the HTML file and double-click it.
+👇🏻Open in your browser
+Open index.html Or just download the HTML file and double-click it.
 
 🗂️ Project Structure
 
